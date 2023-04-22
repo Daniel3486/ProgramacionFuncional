@@ -1,0 +1,80 @@
+01, Juego de ajedrez, 250, juguetería, 12, 2, 30
+02, Memoria USB, 300, tecnología, 2, 1, 10
+03, Pelota de fútbol, 400, deportes, 20, 5, 50
+04, Libreta de notas, 50, papelería, 100, 20, 200
+05, Lápiz de color, 5, papelería, 500, 100, 1000
+06, Mochila escolar, 150, papelería, 30, 5, 50
+07, Cámara digital, 1000, tecnología, 5, 1, 10
+08, Teclado inalámbrico, 600, tecnología, 10, 2, 20
+09, Mouse óptico, 200, tecnología, 20, 5, 50
+10, Auriculares inalámbricos, 800, tecnología, 8, 1, 10
+11, Impresora láser, 1200, tecnología, 4, 1, 5
+12, Monitor de computadora, 1500, tecnología, 3, 1, 5
+13, Silla de escritorio, 400, mueblería, 10, 2, 20
+14, Mesa de comedor, 800, mueblería, 5, 1, 10
+15, Cama individual, 1000, mueblería, 6, 1, 10
+16, Cama matrimonial, 1500, mueblería, 4, 1, 5
+17, Silla de jardín, 250, mueblería, 20, 5, 50
+18, Barbacoa, 500, mueblería, 8, 2, 20
+19, Licuadora, 300, electrodomésticos, 15, 3, 30
+20, Cafetera, 200, electrodomésticos, 25, 5, 50
+21, Horno eléctrico, 600, electrodomésticos, 7, 1, 10
+22, Aspiradora, 400, electrodomésticos, 10, 2, 20
+23, Plancha de ropa, 100, electrodomésticos, 20, 5, 50
+24, Reloj de pulsera, 150, joyería, 50, 10, 100
+25, Collar de plata, 300, joyería, 15, 3, 30
+26, Anillo de compromiso, 5000, joyería, 1, 1, 5
+27, Broche de oro, 800, joyería, 6, 1, 10
+28, Bolsa de cuero, 600, accesorios de moda, 8, 2, 20
+29, Bufanda de lana, 50, accesorios de moda, 30, 5, 50
+30, Sombrero de playa, 80, accesorios de moda, 20, 5, 50
+31, Zapatos deportivos, 200, calzado, 15, 3, 30
+32, Sandalias de cuero, 100, calzado, 25, 5, 50
+33, Botas de invierno, 300, calzado, 8, 2, 20
+34, Zapatillas de ballet, 50, calzado, 30, 5, 45
+35, Guitarra acústica, 500, instrumentos musicales, 10, 2, 20
+36, Batería electrónica, 1000, instrumentos musicales, 5, 1, 10
+37, Micrófono de condensador, 300, instrumentos musicales, 12, 2, 30
+38, Saxofón alto, 1500, instrumentos musicales, 3, 1, 5
+39, Violín, 800, instrumentos musicales, 7, 1, 10
+40, Llave inglesa, 20, herramientas, 100, 20, 200
+41, Destornillador eléctrico, 100, herramientas, 15, 3, 30
+42, Sierra circular, 200, herramientas, 8, 2, 20
+43, Taladro inalámbrico, 150, herramientas, 20, 5, 50
+44, Martillo de carpintero, 30, herramientas, 50, 10, 100
+45, Pintura acrílica, 10, arte y manualidades, 500, 100, 1000
+46, Papel de acuarela, 5, arte y manualidades, 1000, 200, 2000
+47, Pinceles de artista, 20, arte y manualidades, 100, 20, 200
+48, Tijeras de corte, 15, arte y manualidades, 200, 40, 400
+49, Pegamento escolar, 2, arte y manualidades, 1000, 200, 2000
+50, Peluche de oso, 30, juguetería, 50, 10, 100
+51, Muñeca de porcelana, 150, juguetería, 15, 3, 30
+52, Rompecabezas de 1000 piezas, 20, juguetería, 100, 20, 200
+53, Carrito de juguete, 10, juguetería, 200, 40, 400
+54, Juego de mesa Monopoly, 40, juguetería, 30, 5, 50
+55, Aceite de oliva extra virgen, 20, comestibles, 50, 10, 100
+56, Arroz integral, 5, comestibles, 200, 40, 400
+57, Frijoles negros, 3, comestibles, 300, 60, 600
+58, Atún enlatado, 2, comestibles, 500, 100, 1000
+59, Miel pura, 10, comestibles, 100, 20, 200
+60, Té verde orgánico, 8, comestibles, 80, 16, 160
+61, Vino tinto reserva, 50, bebidas alcohólicas, 30, 5, 50
+62, Cerveza artesanal IPA, 6, bebidas alcohólicas, 100, 20, 200
+63, Ron añejo, 40, bebidas alcohólicas, 20, 5, 50
+64, Whisky de malta, 80, bebidas alcohólicas, 15, 3, 30
+65, Vodka premium, 60, bebidas alcohólicas, 25, 5, 50
+66, Botella de agua mineral, 2, bebidas no alcohólicas, 200, 40, 400
+67, Refresco de cola, 3, bebidas no alcohólicas, 150, 30, 300
+68, Jugo de naranja natural, 5, bebidas no alcohólicas, 100, 20, 200
+69, Agua de coco, 4, bebidas no alcohólicas, 80, 16, 160
+70, Bebida energética, 6, bebidas no alcohólicas, 50, 10, 100
+71, Zapatillas deportivas, 80, calzado, 20, 5, 50
+72, Botas de cuero, 150, calzado, 10, 2, 20
+73, Zapatos de vestir, 100, calzado, 15, 3, 30
+74, Sandalias de playa, 50, calzado, 30, 5, 50
+75, Chanclas de goma, 10, calzado, 100, 20, 200
+76, Correa de cuero para reloj, 30, accesorios, 50, 10, 100
+77, Gafas de sol polarizadas, 100, accesorios, 20, 5, 50
+78, Bolso de cuero, 200, accesorios, 8, 2, 20
+79, Sombrero de ala ancha, 40, accesorios, 30, 5, 50
+80, Bufanda de lana, 25, accesorios, 50, 10, 100
